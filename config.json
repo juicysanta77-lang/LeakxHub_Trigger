@@ -1,0 +1,59 @@
+{
+    "humanizer": {
+        "enabled": true,
+        "retries": 3,
+        "max_threads": 5,
+        "avatar_dimension": 256,
+        "max_avatar_cache": 100,
+        "avatar": false,
+        "pronouns": false,
+        "bio": true,
+        "display_name": true,
+        "hypesquad": false
+    },
+    "captcha": {
+        "provider": "2captcha",
+        "2captcha_key": "YOUR_2CAPTCHA_API_KEY",
+        "9captcha_key": "",
+        "nopecha_key": "",
+        "capsolver_key": ""
+    },
+    "quest": {
+        "auto_accept": true,
+        "video_speed": 7,
+        "heartbeat_interval": 20
+    },
+    "joiner": {
+        "channel_id": "",
+        "mention_user_id": "",
+        "message_template": "<@{user_id}>",
+        "delay_between_joins": 5,
+        "oauth2": {
+            "client_id": "",
+            "client_secret": "",
+            "bot_token": "",
+            "guild_id": "",
+            "redirect_uri": "https://discord.com"
+        }
+    },
+    "bot_interaction": {
+        "guild_id": "",
+        "channel_id": ""
+    },
+    "proxy": {
+        "enabled": false
+    },
+    "warmup": {
+        "enabled": true,
+        "browse_channel_before_action": true,
+        "min_warmup_requests": 2,
+        "max_warmup_requests": 5
+    },
+    "typing_simulation": {
+        "min_events": 2,
+        "max_events": 5,
+        "min_delay_between": 7.0,
+        "max_delay_between": 9.5
+    },
+    "retry_limit": 3
+}

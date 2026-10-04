@@ -1,0 +1,5 @@
+# Real tokens backed up to tokens.txt.local (not pushed)
+# Format: email:password:token or token per line
+# Example:
+# user@example.com:password123:MTxxxx.xxxxx.xxxxx
+PLACEHOLDER_TOKEN_HERE.xxxx.xxxxx
