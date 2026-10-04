@@ -1,3 +1,5 @@
+"""cracked by quantum"""
+
 """
 LeakXHub Trigger — Full Python Reconstruction
 =============================================
@@ -7,7 +9,7 @@ co_varnames, co_name, string literals, and structural analysis.
 
 Developer: Frosty
 Edition: OP RED EDITION
-Invite: .gg/leakx
+Evite: .gg/leakx
 """
 
 from __future__ import annotations
