@@ -1,12 +1,12 @@
 """cracked by quantum"""
-
 """
 LeakXHub Trigger — Full Python Reconstruction
 =============================================
 Reconstructed from Nuitka decompilation of LeakXhub_Trigger.exe.
 All logic recovered from: constants blob, code object metadata,
 co_varnames, co_name, string literals, and structural analysis.
-
+"""
+"""
 Developer: Frosty
 Edition: OP RED EDITION
 Evite: .gg/leakx
